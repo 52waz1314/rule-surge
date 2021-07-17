@@ -1,104 +1,116 @@
 # > manhuagui
-  - DOMAIN-SUFFIX,3a4b5c.com
-  - DOMAIN-SUFFIX,349upload.3a4b5c.com
-  - DOMAIN-SUFFIX,h5.3a4b5c.com
+DOMAIN-SUFFIX,3a4b5c.com
+DOMAIN-SUFFIX,349upload.3a4b5c.com
+DOMAIN-SUFFIX,h5.3a4b5c.com
+
 # > ohmanhua
-  - DOMAIN-SUFFIX,exdynsrv.com  
-  - DOMAIN-SUFFIX,f93dad8683e2c7c.com
-  - DOMAIN-SUFFIX,13d9ff11a75509f5602d.com
-  - DOMAIN-SUFFIX,448ff4fcfcd199a.com
-  - DOMAIN-SUFFIX,009yx.com
-  - DOMAIN-SUFFIX,3z9e.cn
-  - DOMAIN-SUFFIX,mmstat.com
-  - DOMAIN-SUFFIX,xfyy397.cn
-  - DOMAIN-SUFFIX,hdsygw.cn
-  - DOMAIN-SUFFIX,heygugu.com
-  - DOMAIN-SUFFIX,bjpengyi.com  
-  - DOMAIN-SUFFIX,q4hwkg.cn
-  - DOMAIN-SUFFIX,xianbense.com
-  - DOMAIN-SUFFIX,kdmmm.cn
-  - DOMAIN-SUFFIX,image.kdmmm.cn
-  - DOMAIN-SUFFIX,cdjxh.xin
-  - DOMAIN-SUFFIX,dlswzw.cn
-  - DOMAIN-SUFFIX,ziztar.cn
-  - DOMAIN-SUFFIX,k3425.xyz
-  - DOMAIN-SUFFIX,gralfusnzpo008.top
-  - DOMAIN-SUFFIX,wpnsrv.com
-  - DOMAIN-SUFFIX,ziyuewentao.com
-  - DOMAIN-SUFFIX,heygugu.com
-  - DOMAIN-SUFFIX,cnzz.com
-  - DOMAIN-SUFFIX,yfcc.info
-  - DOMAIN-SUFFIX,gitma.info
-  - DOMAIN-SUFFIX,yirishedspe.info  
-  - DOMAIN-SUFFIX,ab1n.net
-  - DOMAIN-SUFFIX,hentaiplaytime.com
-  - DOMAIN-SUFFIX,runative-syndicate.com
-  - DOMAIN-SUFFIX,cdn.runative-syndicate.com.fpbns.net  
-  - DOMAIN-SUFFIX,bidgear.com
-  - DOMAIN-SUFFIX,g1s6b.xyz
-  - DOMAIN-SUFFIX,7m0hj.cn
-  - DOMAIN-SUFFIX,8bf8170108e3304.com
-  - DOMAIN-SUFFIX,233fb5b59351.com
-  - DOMAIN-SUFFIX,8ad08ed84e.com 
-  - DOMAIN-SUFFIX,inpcut.com
-  - DOMAIN-SUFFIX,imstks.com
-  - DOMAIN-SUFFIX,qnmuayx.cn
-  - DOMAIN-SUFFIX,imstks.com
-  - DOMAIN-SUFFIX,upgulpinon.com
-  - DOMAIN-SUFFIX,propeller-tracking.com
-  - DOMAIN-SUFFIX,interst12.com
-  - DOMAIN-SUFFIX,newsguardtech.com  
-  - DOMAIN-SUFFIX,strialestionoff.club
-  - DOMAIN-SUFFIX,eicularentif.club
-  - DOMAIN-SUFFIX,lyirishedsp.club
-  - DOMAIN-SUFFIX,encedagric.club
-  - DOMAIN-SUFFIX,fgoverhead.club
-  - DOMAIN-SUFFIX,createssque.club
-  - DOMAIN-SUFFIX,somewhate.club 
-  - DOMAIN-SUFFIX,tonexcitiessa.club
-  - DOMAIN-SUFFIX,rauntilperin.club   
-  - DOMAIN-SUFFIX,pocacan.space
-  - DOMAIN-SUFFIX,newsguardtech.com
-  - DOMAIN-SUFFIX,eikegolehem.com
-  - DOMAIN-SUFFIX,graizoah.com
-  - DOMAIN-SUFFIX,medisit.online
-  - DOMAIN-SUFFIX,pushshots.online  
-  - DOMAIN-SUFFIX,ptoushoa.com
-  - DOMAIN-SUFFIX,staitchu.com  
-  - DOMAIN-SUFFIX,ippsrvng.xyz
-  - DOMAIN-SUFFIX,inpcut.com
-  - DOMAIN-SUFFIX,kiolim.com
-  - DOMAIN-SUFFIX,caiteesh.net
-  - DOMAIN-SUFFIX,icon2count.com  
-  - DOMAIN-SUFFIX,statuse.digitalcertvalidation.com  
-  - DOMAIN-SUFFIX,v.shangyingwm.com
-  - DOMAIN-SUFFIX,m.chinachooses.com 
-  - DOMAIN-SUFFIX,mwgol.com
-  - DOMAIN-SUFFIX,entpressent.top  
-  - DOMAIN-SUFFIX,r.randomnew.com
-  - DOMAIN-SUFFIX,pc.ziyuewentao.com
-  - DOMAIN-SUFFIX,pc.weizhenwx.com  
-  - DOMAIN-SUFFIX,sp0.baidu.com 
-  - DOMAIN-SUFFIX,v.heygugu.com
-  - DOMAIN-SUFFIX,c.ksjsa.com
-  - DOMAIN-SUFFIX,zz.bdstatic.com
-  - DOMAIN,d************.cloudfront.net
-  - DOMAIN,s3.amazonaws.com
-  - DOMAIN,s3t3d2y7.ackcdn.net
+DOMAIN-SUFFIX,exdynsrv.com  
+DOMAIN-SUFFIX,f93dad8683e2c7c.com
+DOMAIN-SUFFIX,13d9ff11a75509f5602d.com
+DOMAIN-SUFFIX,448ff4fcfcd199a.com
+DOMAIN-SUFFIX,009yx.com
+DOMAIN-SUFFIX,3z9e.cn
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,xfyy397.cn
+DOMAIN-SUFFIX,hdsygw.cn
+DOMAIN-SUFFIX,heygugu.com
+DOMAIN-SUFFIX,bjpengyi.com  
+DOMAIN-SUFFIX,q4hwkg.cn
+DOMAIN-SUFFIX,xianbense.com
+DOMAIN-SUFFIX,kdmmm.cn
+DOMAIN-SUFFIX,image.kdmmm.cn
+DOMAIN-SUFFIX,cdjxh.xin
+DOMAIN-SUFFIX,dlswzw.cn
+DOMAIN-SUFFIX,ziztar.cn
+DOMAIN-SUFFIX,k3425.xyz
+DOMAIN-SUFFIX,gralfusnzpo008.top
+DOMAIN-SUFFIX,wpnsrv.com
+DOMAIN-SUFFIX,ziyuewentao.com
+DOMAIN-SUFFIX,heygugu.com
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,yfcc.info
+DOMAIN-SUFFIX,gitma.info
+DOMAIN-SUFFIX,yirishedspe.info  
+DOMAIN-SUFFIX,ab1n.net
+DOMAIN-SUFFIX,hentaiplaytime.com
+DOMAIN-SUFFIX,runative-syndicate.com
+DOMAIN-SUFFIX,cdn.runative-syndicate.com.fpbns.net  
+DOMAIN-SUFFIX,bidgear.com
+DOMAIN-SUFFIX,g1s6b.xyz
+DOMAIN-SUFFIX,7m0hj.cn
+DOMAIN-SUFFIX,8bf8170108e3304.com
+DOMAIN-SUFFIX,233fb5b59351.com
+DOMAIN-SUFFIX,8ad08ed84e.com 
+DOMAIN-SUFFIX,inpcut.com
+DOMAIN-SUFFIX,imstks.com
+DOMAIN-SUFFIX,qnmuayx.cn
+DOMAIN-SUFFIX,imstks.com
+DOMAIN-SUFFIX,upgulpinon.com
+DOMAIN-SUFFIX,propeller-tracking.com
+DOMAIN-SUFFIX,interst12.com
+DOMAIN-SUFFIX,newsguardtech.com  
+DOMAIN-SUFFIX,strialestionoff.club
+DOMAIN-SUFFIX,eicularentif.club
+DOMAIN-SUFFIX,lyirishedsp.club
+DOMAIN-SUFFIX,encedagric.club
+DOMAIN-SUFFIX,fgoverhead.club
+DOMAIN-SUFFIX,createssque.club
+DOMAIN-SUFFIX,somewhate.club 
+DOMAIN-SUFFIX,tonexcitiessa.club
+DOMAIN-SUFFIX,rauntilperin.club   
+DOMAIN-SUFFIX,pocacan.space
+DOMAIN-SUFFIX,newsguardtech.com
+DOMAIN-SUFFIX,eikegolehem.com
+DOMAIN-SUFFIX,graizoah.com
+DOMAIN-SUFFIX,medisit.online
+DOMAIN-SUFFIX,pushshots.online  
+DOMAIN-SUFFIX,ptoushoa.com
+DOMAIN-SUFFIX,staitchu.com  
+DOMAIN-SUFFIX,ippsrvng.xyz
+DOMAIN-SUFFIX,inpcut.com
+DOMAIN-SUFFIX,kiolim.com
+DOMAIN-SUFFIX,caiteesh.net
+DOMAIN-SUFFIX,icon2count.com  
+DOMAIN-SUFFIX,statuse.digitalcertvalidation.com  
+DOMAIN-SUFFIX,v.shangyingwm.com
+DOMAIN-SUFFIX,m.chinachooses.com 
+DOMAIN-SUFFIX,mwgol.com
+DOMAIN-SUFFIX,entpressent.top  
+DOMAIN-SUFFIX,r.randomnew.com
+DOMAIN-SUFFIX,pc.ziyuewentao.com
+DOMAIN-SUFFIX,pc.weizhenwx.com  
+DOMAIN-SUFFIX,sp0.baidu.com 
+DOMAIN-SUFFIX,v.heygugu.com
+DOMAIN-SUFFIX,c.ksjsa.com
+DOMAIN-SUFFIX,zz.bdstatic.com
+DOMAIN,d************.cloudfront.net
+DOMAIN,s3.amazonaws.com
+DOMAIN,s3t3d2y7.ackcdn.net
+
 # > netflav
-  - DOMAIN-SUFFIX,ddmax20.xyz
-  - DOMAIN-SUFFIX,awaitcola.com
-  - DOMAIN-SUFFIX,ad.pornimg.xyz
-  - DOMAIN-SUFFIX,e2wysbacctt1.com 
-  - DOMAIN-SUFFIX,w3.org
-  - DOMAIN-SUFFIX,betgorebysson.club 
-  - DOMAIN-SUFFIX,in-page-push.com 
-  - DOMAIN-SUFFIX,pinkpig2le8tt09.com 
-  - DOMAIN-SUFFIX,ulukaris.com
-  - DOMAIN-SUFFIX,www323.ff-01.com
-  - DOMAIN-SUFFIX,hubzozo.com
-  - DOMAIN-SUFFIX,v3.fstats.xyz
-  - DOMAIN-SUFFIX,unreshiramor.com
-  - DOMAIN-SUFFIX,itnuzleafan.com
-  - DOMAIN-SUFFIX,ggsfq.com
-  - DOMAIN-SUFFIX,v22117.com 
+DOMAIN-SUFFIX,ddmax20.xyz
+DOMAIN-SUFFIX,awaitcola.com
+DOMAIN-SUFFIX,ad.pornimg.xyz
+DOMAIN-SUFFIX,e2wysbacctt1.com 
+DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,betgorebysson.club 
+DOMAIN-SUFFIX,in-page-push.com 
+DOMAIN-SUFFIX,pinkpig2le8tt09.com 
+DOMAIN-SUFFIX,ulukaris.com
+DOMAIN-SUFFIX,www323.ff-01.com
+DOMAIN-SUFFIX,hubzozo.com
+DOMAIN-SUFFIX,v3.fstats.xyz
+DOMAIN-SUFFIX,unreshiramor.com
+DOMAIN-SUFFIX,itnuzleafan.com
+DOMAIN-SUFFIX,ggsfq.com
+DOMAIN-SUFFIX,v22117.com 
+DOMAIN-SUFFIX,fpx05.site
+DOMAIN-SUFFIX,picsuperfast.xyz
+DOMAIN-SUFFIX,x09998.com
+DOMAIN-SUFFIX,t0920.com
+DOMAIN-SUFFIX,k17771.com
+DOMAIN-SUFFIX,v22117.com
+DOMAIN-SUFFIX,s955s.com
+DOMAIN-SUFFIX,tyee8.com
+DOMAIN-SUFFIX,imgur.com
+URL-REGEX,33366(\w){2}.com

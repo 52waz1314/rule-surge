@@ -32,12 +32,6 @@ DOMAIN,upp.itunes.apple.com
 DOMAIN,xp.apple.com  
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,mzstatic.com
-
-# > Apple News
-DOMAIN-SUFFIX,apple.news
-DOMAIN,apple.comscoreresearch.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
   
 # > Developer
 DOMAIN,devimages-cdn.apple.com

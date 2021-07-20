@@ -1,1 +1,38 @@
+# > Steam
+USER-AGENT,Steam*
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,pinyuncloud.com
+DOMAIN-SUFFIX,steamcontent.com
 
+# > Epic
+DOMAIN-KEYWORD,epicgames
+
+# > xbox
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxlive.com
+
+# > Sony
+USER-AGENT,RemotePlay*
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+# > Blizzard
+USER-AGENT,hearthstone*
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com  
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,cdp.cloud.unity3d.com
+
+# > Gameloft
+DOMAIN-SUFFIX,gameloft.com
+
+# > BattlEye  
+DOMAIN-SUFFIX,battleye.com

@@ -649,6 +649,8 @@ DOMAIN-SUFFIX,c.ksjsa.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN,s3.amazonaws.com
 DOMAIN,s3t3d2y7.ackcdn.net
+DOMAIN-SUFFIX,v.dakang-energy.com
+DOMAIN-SUFFIX,v2.dakang-energy.com
 
 # > netflav
 DOMAIN-SUFFIX,ddmax20.xyz

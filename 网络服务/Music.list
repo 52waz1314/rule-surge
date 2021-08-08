@@ -13,3 +13,7 @@ DOMAIN-SUFFIX,spoti.fi
 USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
+
+# > TIDAL
+USER-AGENT,tidal*
+DOMAIN-SUFFIX,tidal.com

@@ -153,3 +153,11 @@ DOMAIN-SUFFIX,gateio.pro
   
 # > sumswap
 DOMAIN-SUFFIX,sumswap.org
+
+# > pancake
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,pancakeswap.info
+DOMAIN-SUFFIX,defibit.io  
+DOMAIN-SUFFIX,thegraph.com
+DOMAIN-SUFFIX,streamingfast.io
+DOMAIN-SUFFIX,pinata.cloud

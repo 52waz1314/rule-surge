@@ -301,7 +301,7 @@ DOMAIN-SUFFIX,xmanhua.com
 DOMAIN-SUFFIX,r3.o.lencr.org
 DOMAIN-SUFFIX,rsc.cdn77.org
 
- ## >> Tiktok
+## >> Tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,byteoversea.com
@@ -321,4 +321,4 @@ DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tiktokv
 DOMAIN-KEYWORD,tiktokcdn  
-PROCESS-NAME,com.zhiliaoapp.musically  
+PROCESS-NAME,com.zhiliaoapp.musically

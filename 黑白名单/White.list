@@ -1,5 +1,17 @@
+# > cocomanga
+DOMAIN-SUFFIX,cocomanga.com
+DOMAIN-SUFFIX,acloudmerge.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,hcaptcha.com 
+DOMAIN-SUFFIX,googletagmanager.com
+# > ad
+DOMAIN-SUFFIX,vouninked.com
+DOMAIN-SUFFIX,couplestupidity.com
+DOMAIN-SUFFIX,autonavi.com
+
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,dler.pro
 
 # > Duet
 USER-AGENT,duet*

@@ -174,3 +174,37 @@ DOMAIN-SUFFIX,fxhapp.com
 
 # > safepal
 DOMAIN-SUFFIX,isafepal.com
+
+# > opensec
+DOMAIN-SUFFIX,opencc.xyz
+DOMAIN-SUFFIX,avesp.xyz
+DOMAIN-SUFFIX,avedex.cc
+DOMAIN-SUFFIX,exapi.io
+
+# > ftx
+DOMAIN-SUFFIX,ftx.com
+
+# > gateio 
+DOMAIN-SUFFIX,gettoby.com
+
+DOMAIN-SUFFIX,gocoin.link
+DOMAIN-SUFFIX,gateio.com
+DOMAIN-SUFFIX,gateio.vc
+DOMAIN-SUFFIX,gateio.fm
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gaterelay.com
+
+# > nftgo
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,nftgo.io
+
+# > 财经网
+DOMAIN-SUFFIX,dailyfxasia.com
+DOMAIN-SUFFIX,dailyfx.com  
+DOMAIN-SUFFIX,dailyfx.com.hk
+
+# > 财经网
+DOMAIN-SUFFIX,macromicro.me
+
+# > Aicion
+DOMAIN-SUFFIX,aicoin.com

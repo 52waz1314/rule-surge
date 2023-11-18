@@ -107,11 +107,15 @@ DOMAIN-SUFFIX,support.hitbtc.com
 DOMAIN-SUFFIX,mt.hitbtc.com
 DOMAIN-SUFFIX,blog.hitbtc.com 
 
-# > Okex Start
+# > Okx Start 
+DOMAIN,www.okex.com
+DOMAIN,www.okx.com
+DOMAIN,www.okx-httpdns.com
 DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,blog.okex.com
-DOMAIN-SUFFIX,www.okex.com
-DOMAIN-SUFFIX,support.okex.com 
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.org
+DOMAIN-SUFFIX,okex.org
+DOMAIN-SUFFIX,okx-httpdns.com
 
 # > Gate Start
 DOMAIN-SUFFIX,gate.io

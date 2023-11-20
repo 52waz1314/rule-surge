@@ -1,6 +1,7 @@
 # > cloudflare
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,hcaptcha.com 
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,api.saasexch.com
 
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud

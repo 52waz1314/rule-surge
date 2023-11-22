@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,blockcypher.com
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,coingecko.com 
 DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.co
 
 # > BTC
 DOMAIN-SUFFIX,bitcoin.org

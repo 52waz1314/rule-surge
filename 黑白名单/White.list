@@ -1,3 +1,12 @@
+# > rule cloud
+DOMAIN,077582580.xyz
+DOMAIN-SUFFIX,077582580.xyz
+IP-CIDR,47.242.31.246/24,no-resolve
+IP-CIDR,47.243.176.91/24,no-resolve
+
+# > Binance china
+DOMAIN-SUFFIX,binancezh.info
+
 # > cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,hcaptcha.com
@@ -27,6 +36,25 @@ PROCESS-NAME,UUBooster
 # > Xunlei
 USER-AGENT,%E8%BF%85%E9%9B%B7
 DOMAIN-SUFFIX,xunlei.com
+
+# > Biu
+DOMAIN-SUFFIX,johnita.vip
+
+# > J
+DOMAIN-SUFFIX,o2.cx
+DOMAIN-SUFFIX,o8.cx
+DOMAIN-SUFFIX,7n.pw
+DOMAIN-SUFFIX,hxdzpos.com
+DOMAIN-SUFFIX,jv6.cc
+DOMAIN-SUFFIX,gyfyy.com
+DOMAIN-SUFFIX,gdbkyz.com
+DOMAIN-SUFFIX,kangruanwx1.com
+IP-CIDR,129.226.175.0/23,no-resolve
+P-CIDR,23.237.190.0/23,no-resolve
+
+# > chinadsl
+DOMAIN-SUFFIX,chinadsl.net
+DOMAIN-SUFFIX,369110.xyz
 
 # > Download
 PROCESS-NAME,aria2c
@@ -420,3 +448,6 @@ DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,fx994.com
 DOMAIN,app.coolbit.com
 DOMAIN,h.m.mpl.dutils.com
+
+# > infinitynewtab 
+DOMAIN-SUFFIX,infinitynewtab.com 

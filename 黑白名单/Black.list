@@ -1,3 +1,32 @@
+# > investing
+DOMAIN-SUFFIX,investing.com
+DOMAIN-SUFFIX,forexpros.com
+DOMAIN-SUFFIX,iforexpros.com
+
+# > emotn
+DOMAIN-SUFFIX,keeflys.com
+
+#> 普拉斯影业
+DOMAIN-SUFFIX,plusmedia.site 
+DOMAIN-SUFFIX,xeton.dev  
+IP-CIDR,38.94.109.0/24,no-resolve
+IP-CIDR,38.94.111.0/24,no-resolve
+
+#> epic game
+DOMAIN-SUFFIX, epicgames.com
+ 
+#> Cydia
+DOMAIN,apt.modmyi.com
+DOMAIN,cydia.angelxwind.net
+DOMAIN,exile90software.com
+DOMAIN-SUFFIX,thebigboss.org
+#> c.sf-syn
+  - DOMAIN-SUFFIX,c.sf-syn.com
+
+#> debian
+DOMAIN,debian.pool.ntp.org 
+DOMAIN-SUFFIX,debian.org
+
 # > 4K家园
 DOMAIN-SUFFIX,4kjia.com 
  

@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,gyfyy.com
 DOMAIN-SUFFIX,gdbkyz.com
 DOMAIN-SUFFIX,kangruanwx1.com
 IP-CIDR,129.226.175.0/23,no-resolve
-P-CIDR,23.237.190.0/23,no-resolve
+IP-CIDR,23.237.190.0/23,no-resolve
 
 # > chinadsl
 DOMAIN-SUFFIX,chinadsl.net

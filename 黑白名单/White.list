@@ -141,7 +141,7 @@ DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 
-# >> Paramount+
+# > Paramount+
 DOMAIN,pubads.g.doubleclick.net
 
 # > Tencent
@@ -160,7 +160,8 @@ DOMAIN,msg.umengcloud.com
 DOMAIN-SUFFIX,hicloud.com
 # > 360
 DOMAIN-SUFFIX,360.cn  
-DOMAIN-SUFFIX,360in.com  
+DOMAIN-SUFFIX,360in.com
+
 # > Amazon
 DOMAIN-SUFFIX,*-cn.amazon.com  
 DOMAIN-SUFFIX,fls-cn.amazon.com

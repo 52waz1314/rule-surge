@@ -24,6 +24,12 @@ DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,bitcoin.org
 DOMAIN-SUFFIX,bitcointalk.org   
 
+# > pexpay
+DOMAIN-SUFFIX,pexpay.com
+
+# > unisat
+DOMAIN-SUFFIX,unisat.io
+
 # > Binance Start
 DOMAIN-SUFFIX,resource.binance.com
 DOMAIN-SUFFIX,binance.com
@@ -49,6 +55,23 @@ DOMAIN-SUFFIX,d1eipm3vz40hy0.cloudfront.net
 DOMAIN-SUFFIX,zopim.com 
 DOMAIN-SUFFIX,binancezh.pro
 DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,bnappzh.cc
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,bntrace.com
+
+# > Bitget Start
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-SUFFIX,noxiaohao.com
+DOMAIN,megacheck.net
+DOMAIN-SUFFIX,megacheck.vip
+DOMAIN,megacheck.vip
+DOMAIN-SUFFIX,ada.support
+DOMAIN-SUFFIX,bitkeep.buzz
+DOMAIN-SUFFIX,bitkeep.com
   
 # > Huobi Start
 DOMAIN-SUFFIX,hbg.com
@@ -62,6 +85,7 @@ DOMAIN-SUFFIX,huobiasia.vip
 DOMAIN-SUFFIX,hbdm.com
 DOMAIN-SUFFIX,huobiglobal.zendesk.com 
 DOMAIN-SUFFIX,hbabit.com
+DOMAIN-SUFFIX,hbfile.net
   
 # > OTC Start
 DOMAIN-SUFFIX,localbitcoins.com  
@@ -115,6 +139,7 @@ DOMAIN,www.okx.com
 DOMAIN,www.okx-httpdns.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.org
 DOMAIN-SUFFIX,okex.org
 DOMAIN-SUFFIX,okx-httpdns.com
@@ -170,6 +195,10 @@ DOMAIN-SUFFIX,pinata.cloud
 
 # > dextools
 DOMAIN-SUFFIX,dextools.io
+DOMAIN,walletlink.org
+DOMAIN-SUFFIX,walletlink.org
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,packcard.com
 
 # > feixiaohao
 DOMAIN,www.feixiaohao.co
@@ -204,7 +233,7 @@ DOMAIN-SUFFIX,gaterelay.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,nftgo.io
 
-# > 财经网
+# > dailyfx
 DOMAIN-SUFFIX,dailyfxasia.com
 DOMAIN-SUFFIX,dailyfx.com  
 DOMAIN-SUFFIX,dailyfx.com.hk
@@ -214,3 +243,15 @@ DOMAIN-SUFFIX,macromicro.me
 
 # > Aicion
 DOMAIN-SUFFIX,aicoin.com
+
+# > hashkey
+DOMAIN,ipqualityscore.com
+DOMAIN-SUFFIX,ipqualityscore.com
+DOMAIN,hashkey.com
+DOMAIN-SUFFIX,hashkey.com
+DOMAIN-SUFFIX,zendesk.com
+
+# > kraken
+DOMAIN,kraken.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,sardine.ai

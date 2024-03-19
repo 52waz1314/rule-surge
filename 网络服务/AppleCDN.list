@@ -42,7 +42,8 @@ DOMAIN-SUFFIX,appldnld.apple.com
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,apps.mzstatic.com
-DOMAIN-SUFFIX,ioshost.qtlcdn.com  
+DOMAIN-SUFFIX,ioshost.qtlcdn.com 
+
 # > icloud  
 DOMAIN-SUFFIX,gateway.icloud.com.cn 
 DOMAIN-SUFFIX,icloud.com.cn  

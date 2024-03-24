@@ -1,5 +1,6 @@
 # > Microsoft CDN
 DOMAIN,assets.msn.com
+DOMAIN,cn.bing.com
 DOMAIN-SUFFIX,msn.cn  
 DOMAIN-SUFFIX,account.microsoft.com
 DOMAIN-SUFFIX,acctcdn.msauth.net  

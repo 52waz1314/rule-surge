@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,ls.apple.com
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-map2.apple.com
 DOMAIN,weather-map.apple.com
+DOMAIN-SUFFIX,autonavi.com
 
 # > Apple其他直连
 DOMAIN,weather-data.apple.com

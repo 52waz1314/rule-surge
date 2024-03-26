@@ -52,7 +52,12 @@ DOMAIN-SUFFIX,icloud.com.cn
 # > Asset Cache Locator Service
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,ls.apple.com  
-  
+
+# > weather
+DOMAIN,weather-data.apple.com
+DOMAIN,weather-map2.apple.com
+DOMAIN,weather-map.apple.com
+
 # > Apple其他直连
 DOMAIN,weather-data.apple.com
 DOMAIN,captive.apple.com

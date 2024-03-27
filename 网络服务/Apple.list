@@ -1,3 +1,6 @@
+DOMAIN,cdn.apple-cloudkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+
 # > apple
 USER-AGENT,%E5%9C%B0%E5%9B%BE*
 USER-AGENT,%E8%AE%BE%E7%BD%AE*
@@ -42,7 +45,6 @@ DOMAIN,js-cdn.music.apple.com
 DOMAIN-SUFFIX,apple-dns.net
 
 # > iTunes Music Stream
-DOMAIN,cdn.apple-cloudkit.com
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 
@@ -65,7 +67,6 @@ DOMAIN,beta.apple.com
 DOMAIN,testflight.apple.com   
   
 # > iCloud 上传和下载
-DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,me.com  

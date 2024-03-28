@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,chat.bilibili.com
 
 # > bilibiliIntl
 DOMAIN,apm-misaka.biliapi.net

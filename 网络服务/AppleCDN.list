@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,ioshost.qtlcdn.com
 
 # > icloud 
 DOMAIN,cdn.apple-cloudkit.com
+DOMAIN,mask.icloud.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,ctyunapi.cn
 DOMAIN-SUFFIX,gateway.icloud.com.cn 

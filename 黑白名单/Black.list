@@ -220,5 +220,8 @@ DOMAIN-SUFFIX,static3.avast.com
 DOMAIN-SUFFIX,static3.avast.com
 DOMAIN-SUFFIX,t.av.st
 
-# > c.sf-syn
-DOMAIN-SUFFIX,c.sf-syn.com
+# > 佐仔
+DOMAIN-SUFFIX,everun.top
+
+# > 主机GET
+DOMAIN-SUFFIX,zhujiget.com

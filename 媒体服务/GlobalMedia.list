@@ -2,3 +2,9 @@
 # > hwtv
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
+
+# > myTV SUPER
+DOMAIN-KEYWORD,mytv
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,mytvsuper.com 

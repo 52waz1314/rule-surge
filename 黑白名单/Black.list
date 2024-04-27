@@ -219,3 +219,6 @@ DOMAIN-SUFFIX,now.symassets.com
 DOMAIN-SUFFIX,static3.avast.com
 DOMAIN-SUFFIX,static3.avast.com
 DOMAIN-SUFFIX,t.av.st
+
+# > c.sf-syn
+DOMAIN-SUFFIX,c.sf-syn.com

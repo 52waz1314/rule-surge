@@ -5,73 +5,14 @@ DOMAIN-SUFFIX,api.dler.io
 DOMAIN,debian.pool.ntp.org 
 DOMAIN-SUFFIX,debian.org
 
-# > Cydia
-DOMAIN,apt.modmyi.com
-DOMAIN,cydia.angelxwind.net
-DOMAIN,exile90software.com
-DOMAIN-SUFFIX,thebigboss.org
+# > emotn
+DOMAIN-SUFFIX,keeflys.com
 
-# > 4K家园
-DOMAIN-SUFFIX,4kjia.com
+# > 普拉斯影业
+DOMAIN-SUFFIX,plusmedia.site 
+DOMAIN-SUFFIX,xeton.dev  
+IP-CIDR,38.94.109.0/24,no-resolve
+IP-CIDR,38.94.111.0/24,no-resolve
 
-# > 移民官网
-DOMAIN-SUFFIX,canada.ca
-DOMAIN-SUFFIX,cbiu.gov.dm
-DOMAIN-SUFFIX,gov.uk
-DOMAIN-SUFFIX,ica.gov.sg
-DOMAIN-SUFFIX,immi.homeaffairs.gov.au
-DOMAIN-SUFFIX,immigration.govt.nz
-DOMAIN-SUFFIX,inz.tungstenweb.com
-DOMAIN-SUFFIX,publications.iom.int
-DOMAIN-SUFFIX,r3.o.lencr.org
-DOMAIN-SUFFIX,r3.o.lencr.org
-DOMAIN-SUFFIX,static.zdassets.com
-
-# > 微测
-DOMAIN-SUFFIX,10beasts.net
-
-# > 问答平台
-DOMAIN,www.wikibooks.org
-DOMAIN-SUFFIX,r3.o.lencr.org
-DOMAIN-SUFFIX,wikihow.com
-
-# > 银行体系
-DOMAIN-SUFFIX,bankofamerica.com
-DOMAIN-SUFFIX,uobgroup.com
-DOMAIN-SUFFIX,velobank.com
-
-# > 特色网购
-DOMAIN-SUFFIX,a.allegroimg.com
-DOMAIN-SUFFIX,allegro.pl
-DOMAIN-SUFFIX,api.r10s.jp
-DOMAIN-SUFFIX,assets.allegrostatic.com
-DOMAIN-SUFFIX,assoc-na.associates-amazon.com
-DOMAIN-SUFFIX,b90.yahoo.co.jp
-DOMAIN-SUFFIX,b91.yahoo.co.jp
-DOMAIN-SUFFIX,b92.yahoo.co.jp
-DOMAIN-SUFFIX,b97.yahoo.co.jp
-DOMAIN-SUFFIX,cdiscount.com
-DOMAIN-SUFFIX,cdn.trustcommander.net
-DOMAIN-SUFFIX,currys-ssl.cdn.dixons.com
-DOMAIN-SUFFIX,currys.co.uk
-DOMAIN-SUFFIX,data.mercadolibre.com
-DOMAIN-SUFFIX,design.hepsiburada.net
-DOMAIN-SUFFIX,etsy.com
-DOMAIN-SUFFIX,gettime.r10s.jp
-DOMAIN-SUFFIX,hepsiburada.com
-DOMAIN-SUFFIX,i.etsystatic.com
-DOMAIN-SUFFIX,i2.cdscdn.com
-DOMAIN-SUFFIX,i7.cdscdn.com
-DOMAIN-SUFFIX,images.hepsiburada.net
-DOMAIN-SUFFIX,img0.etsystatic.com
-DOMAIN-SUFFIX,media.richrelevance.com
-DOMAIN-SUFFIX,momoshop.com.tw
-DOMAIN-SUFFIX,privacy.trustcommander.net
-DOMAIN-SUFFIX,productimages.hepsiburada.net
-DOMAIN-SUFFIX,s.yimg.jp
-DOMAIN-SUFFIX,s1.cdscdn.com
-DOMAIN-SUFFIX,scrootca2.ocsp.secomtrust.net
-DOMAIN-SUFFIX,ssocsp.cybertrust.ne.jp
-DOMAIN-SUFFIX,static.hepsiburada.net
-DOMAIN-SUFFIX,static.mlstatic.com
-DOMAIN-SUFFIX,tr.gunosy.com
+# > emojiall
+DOMAIN-SUFFIX,emojiall.com

@@ -16,3 +16,23 @@ IP-CIDR,38.94.111.0/24,no-resolve
 
 # > emojiall
 DOMAIN-SUFFIX,emojiall.com
+
+# > 澳门日报
+DOMAIN-SUFFIX,gov.mo
+DOMAIN-SUFFIX,macaodaily.com
+DOMAIN-SUFFIX,mobile.tdm.com.mo
+DOMAIN-SUFFIX,statics.exmoo.com
+
+# > 华尔街日报
+DOMAIN-SUFFIX,cdn.privacy-mgmt.com
+DOMAIN-SUFFIX,oms.dowjoneson.com
+
+# > 科技日报
+DOMAIN-SUFFIX,cdn.tinypass.com
+DOMAIN-SUFFIX,consent.cmp.oath.com
+DOMAIN-SUFFIX,organizer.bizzabo.com
+
+# > 苹果日报
+DOMAIN-SUFFIX,hk.appledaily.com
+DOMAIN-SUFFIX,policy.appledaily.com
+DOMAIN-SUFFIX,static.omoplanet.com 

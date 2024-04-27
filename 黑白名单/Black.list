@@ -6,4 +6,7 @@ DOMAIN,debian.pool.ntp.org
 DOMAIN-SUFFIX,debian.org
 
 # > emotn
-DOMAIN-SUFFIX,keeflys.com 
+DOMAIN-SUFFIX,keeflys.com
+
+# > emojiall
+DOMAIN-SUFFIX,emojiall.com

@@ -208,3 +208,12 @@ DOMAIN-SUFFIX,toutiao.com
 
 # > plex direct server
 DOMAIN-SUFFIX,plex.direct
+
+
+# > 爱云影视
+DOMAIN,iyunys.com
+DOMAIN-SUFFIX,iyunys.com
+DOMAIN-SUFFIX,huishij.com
+DOMAIN-SUFFIX,monidai.com
+DOMAIN-SUFFIX,wujinpp.com
+DOMAIN-SUFFIX,image8899.net

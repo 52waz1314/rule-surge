@@ -1,12 +1,2 @@
 # > Dler Cloud
 DOMAIN-SUFFIX,api.dler.io
-
-# > c.sf-syn
-DOMAIN-SUFFIX,c.sf-syn.com
-
-# > debian
-DOMAIN,debian.pool.ntp.org 
-DOMAIN-SUFFIX,debian.org
-
-# > 4K家园
-DOMAIN-SUFFIX,4kjia.com

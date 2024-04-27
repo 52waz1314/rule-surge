@@ -20,3 +20,16 @@ DOMAIN-SUFFIX,publications.iom.int
 DOMAIN-SUFFIX,r3.o.lencr.org
 DOMAIN-SUFFIX,r3.o.lencr.org
 DOMAIN-SUFFIX,static.zdassets.com
+
+# > 微测
+DOMAIN-SUFFIX,10beasts.net
+
+# > 问答平台
+DOMAIN,www.wikibooks.org
+DOMAIN-SUFFIX,r3.o.lencr.org
+DOMAIN-SUFFIX,wikihow.com
+
+# > 银行体系
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,uobgroup.com
+DOMAIN-SUFFIX,velobank.com

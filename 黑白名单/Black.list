@@ -5,6 +5,12 @@ DOMAIN-SUFFIX,api.dler.io
 DOMAIN,debian.pool.ntp.org 
 DOMAIN-SUFFIX,debian.org
 
+# > Cydia
+DOMAIN,apt.modmyi.com
+DOMAIN,cydia.angelxwind.net
+DOMAIN,exile90software.com
+DOMAIN-SUFFIX,thebigboss.org
+
 # > 4K家园
 DOMAIN-SUFFIX,4kjia.com
 

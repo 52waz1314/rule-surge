@@ -69,3 +69,153 @@ DOMAIN-SUFFIX,ssocsp.cybertrust.ne.jp
 DOMAIN-SUFFIX,static.hepsiburada.net
 DOMAIN-SUFFIX,static.mlstatic.com
 DOMAIN-SUFFIX,tr.gunosy.com
+
+# > Cydia
+DOMAIN,apt.modmyi.com
+DOMAIN,cydia.angelxwind.net
+DOMAIN,exile90software.com
+DOMAIN-SUFFIX,thebigboss.org
+
+
+# > investing
+DOMAIN-SUFFIX,investing.com
+DOMAIN-SUFFIX,forexpros.com
+DOMAIN-SUFFIX,iforexpros.com
+
+# > emotn
+DOMAIN-SUFFIX,keeflys.com
+
+# > 普拉斯影业
+DOMAIN-SUFFIX,plusmedia.site 
+DOMAIN-SUFFIX,xeton.dev  
+IP-CIDR,38.94.109.0/24,no-resolve
+IP-CIDR,38.94.111.0/24,no-resolve
+
+# > epic game
+DOMAIN-SUFFIX,epicgames.com
+
+# > c.sf-syn
+DOMAIN-SUFFIX,c.sf-syn.com
+
+# > dubox
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,duboxcdn.com
+ 
+# > emojiall
+DOMAIN-SUFFIX,emojiall.com
+
+# > firefox 
+DOMAIN,detectportal.firefox.com
+
+# > friendlyduck 
+DOMAIN-SUFFIX,bsmartdata.com
+DOMAIN-SUFFIX,friendlyduck.com
+DOMAIN-SUFFIX,usenet.nl
+
+# > grafana
+DOMAIN-SUFFIX,grafana.com
+
+# > Jsboxbbs
+DOMAIN-SUFFIX,jsboxbbs.com
+
+# > Oxford 
+DOMAIN,oup.com 
+ 
+# > p2p
+DOMAIN-SUFFIX,18p2p.com
+
+# > PAYONEER
+DOMAIN-SUFFIX,ac5ccb5bbdc24cd8ba09925be794b96b.js.ubembed.com
+DOMAIN-SUFFIX,assets.ubembed.com
+DOMAIN-SUFFIX,payoneer.com
+
+# > pkgs.org
+DOMAIN-SUFFIX,assets.pkgs.org
+DOMAIN-SUFFIX,pkgs.org using
+ 
+# > skk博客
+DOMAIN-SUFFIX,skk.moe
+
+# > SKYPE
+DOMAIN-SUFFIX,secure.skypeassets.com
+
+# > transferwise
+DOMAIN-SUFFIX,nav.smartscreen.microsoft.com
+DOMAIN-SUFFIX,prf.hn
+DOMAIN-SUFFIX,transferwise.com
+
+# > U2
+DOMAIN-SUFFIX,buydomains.com
+DOMAIN-SUFFIX,u2.dmly.org 
+
+# > uu看书 
+DOMAIN-SUFFIX,uukanshu.com
+# > voxel-firmware
+DOMAIN-SUFFIX,voxel-firmware.com
+
+# > 澳门日报
+DOMAIN-SUFFIX,gov.mo
+DOMAIN-SUFFIX,macaodaily.com
+DOMAIN-SUFFIX,mobile.tdm.com.mo
+DOMAIN-SUFFIX,statics.exmoo.com
+
+# > 华尔街日报
+DOMAIN-SUFFIX,cdn.privacy-mgmt.com
+DOMAIN-SUFFIX,oms.dowjoneson.com
+
+# > 灰信网
+DOMAIN-SUFFIX,freesion.com
+
+# > 即时通讯
+DOMAIN-SUFFIX,static.threema.ch
+DOMAIN-SUFFIX,threema.ch
+
+# > 聚合工具
+DOMAIN-SUFFIX,assets.feedbin.com
+DOMAIN-SUFFIX,assets.getpocket.com
+DOMAIN-SUFFIX,d.getpocket.com
+DOMAIN-SUFFIX,feedbin.com
+DOMAIN-SUFFIX,js.stripe.com
+DOMAIN-SUFFIX,m.stripe.network
+DOMAIN-SUFFIX,r3.o.lencr.org
+
+# > 科技日报
+DOMAIN-SUFFIX,cdn.tinypass.com
+DOMAIN-SUFFIX,consent.cmp.oath.com
+DOMAIN-SUFFIX,organizer.bizzabo.com
+
+# > 浏览器
+DOMAIN-SUFFIX,brave.com
+
+# > 彭博社
+DOMAIN-SUFFIX,assets.bwbx.io
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
+DOMAIN-SUFFIX,login.bloomberg.com
+
+# > 苹果日报
+DOMAIN-SUFFIX,hk.appledaily.com
+DOMAIN-SUFFIX,policy.appledaily.com
+DOMAIN-SUFFIX,static.omoplanet.com 
+
+# > 全球威客
+DOMAIN-SUFFIX,assetsv2.fiverrcdn.com
+DOMAIN-SUFFIX,collector-pxk3bezzfo.px-cdn.net
+DOMAIN-SUFFIX,fiverr-res.cloudinary.com
+DOMAIN-SUFFIX,fiverr.com
+DOMAIN-SUFFIX,guru.com
+DOMAIN-SUFFIX,img-guru.com
+DOMAIN-SUFFIX,npm-assets.fiverrcdn.com
+DOMAIN-SUFFIX,relay.fiverr.com
+DOMAIN-SUFFIX,res.cloudinary.com
+
+# > 杀毒网站
+DOMAIN-SUFFIX,aero.bankofamerica.com
+DOMAIN-SUFFIX,api-router.kaspersky-labs.com
+DOMAIN-SUFFIX,avast.com
+DOMAIN-SUFFIX,cn.norton.com
+DOMAIN-SUFFIX,mcafee.com
+DOMAIN-SUFFIX,media.kaspersky.com
+DOMAIN-SUFFIX,now.symassets.com
+DOMAIN-SUFFIX,static3.avast.com
+DOMAIN-SUFFIX,static3.avast.com
+DOMAIN-SUFFIX,t.av.st

@@ -196,26 +196,3 @@ DOMAIN-SUFFIX,login.bloomberg.com
 DOMAIN-SUFFIX,hk.appledaily.com
 DOMAIN-SUFFIX,policy.appledaily.com
 DOMAIN-SUFFIX,static.omoplanet.com 
-
-# > 全球威客
-DOMAIN-SUFFIX,assetsv2.fiverrcdn.com
-DOMAIN-SUFFIX,collector-pxk3bezzfo.px-cdn.net
-DOMAIN-SUFFIX,fiverr-res.cloudinary.com
-DOMAIN-SUFFIX,fiverr.com
-DOMAIN-SUFFIX,guru.com
-DOMAIN-SUFFIX,img-guru.com
-DOMAIN-SUFFIX,npm-assets.fiverrcdn.com
-DOMAIN-SUFFIX,relay.fiverr.com
-DOMAIN-SUFFIX,res.cloudinary.com
-
-# > 杀毒网站
-DOMAIN-SUFFIX,aero.bankofamerica.com
-DOMAIN-SUFFIX,api-router.kaspersky-labs.com
-DOMAIN-SUFFIX,avast.com
-DOMAIN-SUFFIX,cn.norton.com
-DOMAIN-SUFFIX,mcafee.com
-DOMAIN-SUFFIX,media.kaspersky.com
-DOMAIN-SUFFIX,now.symassets.com
-DOMAIN-SUFFIX,static3.avast.com
-DOMAIN-SUFFIX,static3.avast.com
-DOMAIN-SUFFIX,t.av.st

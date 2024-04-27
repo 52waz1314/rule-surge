@@ -7,18 +7,3 @@ DOMAIN-SUFFIX,debian.org
 
 # > 4K家园
 DOMAIN-SUFFIX,4kjia.com
-
-# > 众筹平台
-DOMAIN-SUFFIX,1ckxmv4dba6s1dz21zkplqa1-wpengine.netdna-ssl.com
-DOMAIN-SUFFIX,api.nextsale.io
-DOMAIN-SUFFIX,cdn.nextsale.io
-DOMAIN-SUFFIX,fast.wistia.com
-DOMAIN-SUFFIX,fundrazr.com
-DOMAIN-SUFFIX,givingfuel.com
-DOMAIN-SUFFIX,gofundme.com
-DOMAIN-SUFFIX,iggcdn.com
-DOMAIN-SUFFIX,indiegogo.com
-DOMAIN-SUFFIX,js.intercomcdn.com
-DOMAIN-SUFFIX,kickstarter.com
-DOMAIN-SUFFIX,ksr-ugc.imgix.net
-DOMAIN-SUFFIX,widget.intercom.io 

@@ -2,19 +2,3 @@
 # > hwtv
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
-
-# > myTV SUPER
-DOMAIN-KEYWORD,mytv
-DOMAIN-KEYWORD,nowtv100
-DOMAIN-KEYWORD,rthklive
-DOMAIN-SUFFIX,mytvsuper.com 
- 
-# > twhao
-DOMAIN-SUFFIX,skyking.com.tw
-DOMAIN,hamifans.emome.net
-
-# > Twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,jtvnw.net

@@ -426,4 +426,30 @@ DOMAIN-SUFFIX,fwymdscj.pw
 DOMAIN-SUFFIX,99e5be8a.club
   
 # > 117漫画
-DOMAIN-SUFFIX,177pic.info  
+DOMAIN-SUFFIX,177pic.info
+
+# > 普拉斯影业
+DOMAIN-SUFFIX,plusmedia.site 
+DOMAIN-SUFFIX,xeton.dev  
+IP-CIDR,38.94.109.0/24,no-resolve
+IP-CIDR,38.94.111.0/24,no-resolve
+
+# > 澳门日报
+DOMAIN-SUFFIX,gov.mo
+DOMAIN-SUFFIX,macaodaily.com
+DOMAIN-SUFFIX,mobile.tdm.com.mo
+DOMAIN-SUFFIX,statics.exmoo.com
+
+# > 华尔街日报
+DOMAIN-SUFFIX,cdn.privacy-mgmt.com
+DOMAIN-SUFFIX,oms.dowjoneson.com
+
+# > 科技日报
+DOMAIN-SUFFIX,cdn.tinypass.com
+DOMAIN-SUFFIX,consent.cmp.oath.com
+DOMAIN-SUFFIX,organizer.bizzabo.com
+
+# > 苹果日报
+DOMAIN-SUFFIX,hk.appledaily.com
+DOMAIN-SUFFIX,policy.appledaily.com
+DOMAIN-SUFFIX,static.omoplanet.com

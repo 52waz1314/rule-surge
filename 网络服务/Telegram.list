@@ -1,3 +1,10 @@
+# > twitter
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN,t.co
+DOMAIN-SUFFIX,x.com
+
 # > Discord
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.com

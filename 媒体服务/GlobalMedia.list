@@ -399,28 +399,12 @@ DOMAIN-SUFFIX,manga2020.com
 # > xmanhua
 DOMAIN-SUFFIX,xmanhua.com 
 
-# > anime
-DOMAIN-SUFFIX,anime1.me 
-DOMAIN-SUFFIX,anicdn.com
-DOMAIN-SUFFIX,lolicdn.net
-DOMAIN-SUFFIX,v.network
-DOMAIN-SUFFIX,bitapi.vip
-
 # > copymanga 
 DOMAIN-SUFFIX,r3.o.lencr.org
 DOMAIN-SUFFIX,rsc.cdn77.org
 DOMAIN-SUFFIX,copymanga.site
 DOMAIN-SUFFIX,mangafuna.xyz
 DOMAIN-SUFFIX,relamanhua.com 
-
-# > cocomanga
-DOMAIN-SUFFIX,cocomanga.com
-DOMAIN,cocomanga.com
-DOMAIN-SUFFIX,colamanhua.com
-DOMAIN,colamanhua.com
-DOMAIN-SUFFIX,colamanga.com
-DOMAIN,colamanga.com
-DOMAIN-SUFFIX,acloudmerge.com
 
 # > 1024
 DOMAIN-SUFFIX,fwymdscj.pw

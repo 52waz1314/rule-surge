@@ -381,6 +381,15 @@ IP-CIDR,23.225.233.3/16,no-resolve
 IP-CIDR,202.171.253.69/16,no-resolve
 
 #  动漫
+# > cocomanga
+DOMAIN-SUFFIX,cocomanga.com
+DOMAIN,cocomanga.com
+DOMAIN-SUFFIX,colamanhua.com
+DOMAIN,colamanhua.com
+DOMAIN-SUFFIX,colamanga.com
+DOMAIN,colamanga.com
+DOMAIN-SUFFIX,acloudmerge.com
+
 # > 动漫花园
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,dmhy.org

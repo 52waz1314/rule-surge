@@ -226,19 +226,9 @@ DOMAIN-SUFFIX,image8899.net
 DOMAIN-SUFFIX,kuaikanzy.cc
 DOMAIN-SUFFIX,kuaikanzy.net
 
-#  动漫
 # > anime
 DOMAIN-SUFFIX,anime1.me 
 DOMAIN-SUFFIX,anicdn.com
 DOMAIN-SUFFIX,lolicdn.net
 DOMAIN-SUFFIX,v.network
 DOMAIN-SUFFIX,bitapi.vip
-
-# > cocomanga
-DOMAIN-SUFFIX,cocomanga.com
-DOMAIN,cocomanga.com
-DOMAIN-SUFFIX,colamanhua.com
-DOMAIN,colamanhua.com
-DOMAIN-SUFFIX,colamanga.com
-DOMAIN,colamanga.com
-DOMAIN-SUFFIX,acloudmerge.com

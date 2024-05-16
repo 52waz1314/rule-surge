@@ -1,3 +1,10 @@
+# > jj game
+DOMAIN-SUFFIX,unity.cn
+DOMAIN-SUFFIX,jj.cn
+DOMAIN-SUFFIX,jjgame.net
+DOMAIN-SUFFIX,jjmatch.cn
+DOMAIN,dypnsapi.aliyuncs.com
+
 # > Steam CN
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.ksyna.com

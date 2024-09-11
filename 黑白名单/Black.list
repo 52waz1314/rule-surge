@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,keeflys.com
 
 # > emojiall
 DOMAIN-SUFFIX,emojiall.com
+
+# > cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,hcaptcha.com

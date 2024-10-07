@@ -379,6 +379,7 @@ IP-CIDR,138.128.27.218/16,no-resolve
 IP-CIDR,198.255.82.91/16,no-resolve
 IP-CIDR,23.225.233.3/16,no-resolve
 IP-CIDR,202.171.253.69/16,no-resolve
+IP-CIDR,104.26.2.41/32,no-resolve
 
 #  动漫
 # > cocomanga

@@ -255,3 +255,6 @@ DOMAIN-SUFFIX,zendesk.com
 DOMAIN,kraken.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,sardine.ai
+
+# > DEXX
+DOMAIN-SUFFIX,dexx.ai

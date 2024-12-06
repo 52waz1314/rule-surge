@@ -33,70 +33,36 @@ DOMAIN-SUFFIX,pexpay.com
 DOMAIN-SUFFIX,unisat.io
 
 # > Binance
-.binance.cc
-.binance.charity
-.binance.cloud
-.binance.co
-.binance.com
-.binance.info
-.binance.me
-.binance.net
-.binance.org
-.binance.us
-.binance.vision
-.binanceapi.com
-.binancecnt.com
-.binancezh.be
-.binancezh.biz
-.binancezh.cc
-.binancezh.co
-.binancezh.com
-.binancezh.info
-.binancezh.ink
-.binancezh.kim
-.binancezh.link
-.binancezh.live
-.binancezh.mobi
-.binancezh.net
-.binancezh.pro
-.binancezh.sh
-.binancezh.top
-
-# > Binance Start
-DOMAIN-SUFFIX,resource.binance.com
-DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.co
-DOMAIN-SUFFIX,binance.gg  
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,binancezh.com  
-DOMAIN-SUFFIX,bin.bnbstatic.com
-DOMAIN-SUFFIX,ex.bnbstatic.com
-DOMAIN-SUFFIX,stream.binance.com
-DOMAIN-SUFFIX,stream2.binance.com
-DOMAIN-SUFFIX,api.binance.com
-DOMAIN-SUFFIX,ftp.binance.com
-DOMAIN-SUFFIX,sftp.binance.com
-DOMAIN-SUFFIX,info.binance.com
-DOMAIN-SUFFIX,support.binance.com 
-DOMAIN-SUFFIX,labs.binance.com
-DOMAIN-SUFFIX,launchpad.binance.com
-DOMAIN-SUFFIX,binance.zendesk.com
-DOMAIN-SUFFIX,de908tco66xxm.cloudfront.net
-DOMAIN-SUFFIX,d1eipm3vz40hy0.cloudfront.net 
-DOMAIN-SUFFIX,zopim.com 
-DOMAIN-SUFFIX,binancezh.pro
-DOMAIN-SUFFIX,binance.vision
-DOMAIN-SUFFIX,binancezh.pro
-DOMAIN-SUFFIX,binance.vision
-DOMAIN-SUFFIX,bnappzh.cc
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binance.im
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,mokexapp.net
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.mobi
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
 
-
-# > Bitget Start
+# > Bitget 
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,noxiaohao.com
@@ -107,7 +73,7 @@ DOMAIN-SUFFIX,ada.support
 DOMAIN-SUFFIX,bitkeep.buzz
 DOMAIN-SUFFIX,bitkeep.com
   
-# > Huobi Start
+# > Huobi 
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,m.hbg.com
 DOMAIN-SUFFIX,otc.hbg.com
@@ -121,7 +87,7 @@ DOMAIN-SUFFIX,huobiglobal.zendesk.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
   
-# > OTC Start
+# > OTC 
 DOMAIN-SUFFIX,localbitcoins.com  
 DOMAIN-SUFFIX,chain.localbitcoins.com
 DOMAIN-SUFFIX,otcbtc.com
@@ -133,7 +99,7 @@ DOMAIN-SUFFIX,bb.otcbtc.com
 DOMAIN-SUFFIX,career.otcbtc.com
 DOMAIN-SUFFIX,support.otcbtc.com 
    
-# > Kucoin Start
+# > Kucoin 
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,assets-v2.kucoin.com
 DOMAIN-SUFFIX,kitchen-v2.kucoin.com
@@ -146,13 +112,13 @@ DOMAIN-SUFFIX,sentry.kucoin.com
 DOMAIN-SUFFIX,news.kucoin.com
 DOMAIN-SUFFIX,kucoinn.tumblr.com 
  
-# > Bitfinex Start
+# > Bitfinex 
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,api.bitfinex.com
 DOMAIN-SUFFIX,blog.bitfinex.com
 DOMAIN-SUFFIX,support.bitfinex.com 
 
-# > Bitmex Start
+# > Bitmex 
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,blog.bitmex.com
 DOMAIN-SUFFIX,testnet.bitmex.com
@@ -160,14 +126,14 @@ DOMAIN-SUFFIX,sentry.bitmex.com
 DOMAIN-SUFFIX,testnet-static.bitmex.com
 DOMAIN-SUFFIX,static.bitmex.com
  
-# > Hitbtc Start
+# > Hitbtc 
 DOMAIN-SUFFIX,hitbtc.com
 DOMAIN-SUFFIX,auth.hitbtc.com
 DOMAIN-SUFFIX,support.hitbtc.com
 DOMAIN-SUFFIX,mt.hitbtc.com
 DOMAIN-SUFFIX,blog.hitbtc.com 
 
-# > Okx Start 
+# > Okx 
 DOMAIN,www.okex.com
 DOMAIN,www.okx.com
 DOMAIN,www.okx-httpdns.com
@@ -178,7 +144,7 @@ DOMAIN-SUFFIX,okx.org
 DOMAIN-SUFFIX,okex.org
 DOMAIN-SUFFIX,okx-httpdns.com
 
-# > Gate Start
+# > Gate 
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,web02.gate.io
 DOMAIN-SUFFIX,support.gate.io

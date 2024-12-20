@@ -15,4 +15,10 @@ DOMAIN-SUFFIX,netspeedtestmaster.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.chinaunicomglobal.com  
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtestcustom.com 
+DOMAIN-SUFFIX,speedtestcustom.com
+
+# > WIFIMEN
+DOMAIN-SUFFIX,wifiman.ubncloud.com
+DOMAIN-SUFFIX,wifiman.com
+DOMAIN-SUFFIX,wifiman.me
+DOMAIN-SUFFIX,ip-api.com

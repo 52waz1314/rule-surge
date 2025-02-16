@@ -380,3 +380,14 @@ IP-CIDR,198.255.82.91/16,no-resolve
 IP-CIDR,23.225.233.3/16,no-resolve
 IP-CIDR,202.171.253.69/16,no-resolve
 IP-CIDR,104.26.2.41/32,no-resolve
+
+# > 1024
+DOMAIN-SUFFIX,fwymdscj.pw
+DOMAIN-SUFFIX,99e5be8a.club
+
+# > anime
+DOMAIN-SUFFIX,anime1.me 
+DOMAIN-SUFFIX,anicdn.com
+DOMAIN-SUFFIX,lolicdn.net
+DOMAIN-SUFFIX,v.network
+DOMAIN-SUFFIX,bitapi.vip

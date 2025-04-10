@@ -20,6 +20,7 @@ USER-AGENT,Maps*
 USER-AGENT,TestFlight*
 
 # > 一些 com.apple.appstored* 会连接的 API（优先级高）
+DOMAIN,iosapps.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,api.apps.apple.com
 DOMAIN,apps.apple.com

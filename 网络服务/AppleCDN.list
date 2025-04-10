@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,music.apple.com
 DOMAIN,smp-device-content.apple.com
 
 # > App Store & iTunes Images
-DOMAIN,iosapps.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net

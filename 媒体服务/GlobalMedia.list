@@ -384,10 +384,3 @@ IP-CIDR,104.26.2.41/32,no-resolve
 # > 1024
 DOMAIN-SUFFIX,fwymdscj.pw
 DOMAIN-SUFFIX,99e5be8a.club
-
-# > anime
-DOMAIN-SUFFIX,anime1.me 
-DOMAIN-SUFFIX,anicdn.com
-DOMAIN-SUFFIX,lolicdn.net
-DOMAIN-SUFFIX,v.network
-DOMAIN-SUFFIX,bitapi.vip

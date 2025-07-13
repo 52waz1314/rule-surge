@@ -384,3 +384,8 @@ IP-CIDR,104.26.2.41/32,no-resolve
 # > 1024
 DOMAIN-SUFFIX,fwymdscj.pw
 DOMAIN-SUFFIX,99e5be8a.club
+
+# > 123
+DOMAIN-SUFFIX,123av.com
+DOMAIN-SUFFIX,prefecturesuggestions.com
+DOMAIN,prefecturesuggestions.com

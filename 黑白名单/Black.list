@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,hcaptcha.com
 # > jd 
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,jd.hk
+
+# > CCTV
+DOMAIN-SUFFIX,cctv.cn

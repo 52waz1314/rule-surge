@@ -1,5 +1,5 @@
 # > QQ Music
-DOMAIN,stream.qqmusic.qq.com
+DOMAIN-SUFFIX,stream.qqmusic.qq.com
 DOMAIN,aqqmusic.tc.qq.com
 DOMAIN,stat.y.qq.com
 DOMAIN,u6.y.qq.com

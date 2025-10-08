@@ -1,11 +1,8 @@
 # > QQ Music
 DOMAIN-SUFFIX,stream.qqmusic.qq.com
-DOMAIN,aqqmusic.tc.qq.com
-DOMAIN,stat.y.qq.com
-DOMAIN,u6.y.qq.com
-DOMAIN,szacc.music.qq.com
-DOMAIN,acc.music.qq.com
-DOMAIN,stat6.y.qq.com
+DOMAIN-SUFFIX,tc.qq.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN-SUFFIX,music.qq.com
 
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*

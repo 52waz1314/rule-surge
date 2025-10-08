@@ -1,3 +1,12 @@
+# > QQ Music
+DOMAIN,ws6.stream.qqmusic.qq.com
+DOMAIN,aqqmusic.tc.qq.com
+DOMAIN,stat.y.qq.com
+DOMAIN,u6.y.qq.com
+DOMAIN,szacc.music.qq.com
+DOMAIN,acc.music.qq.com
+DOMAIN,stat6.y.qq.com
+
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*

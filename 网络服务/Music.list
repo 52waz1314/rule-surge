@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,stream.qqmusic.qq.com
 DOMAIN-SUFFIX,music.qq.com
+DOMAIN，isure6-stream-qqmusic.a.bdycdn.cn
 
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*

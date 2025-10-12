@@ -3,8 +3,8 @@ DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,stream.qqmusic.qq.com
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,y.qq.com
-DOMAIN-SUFFIX,isure6-stream-qqmusic.a.bdycdn.cn
-DOMAIN-SUFFIX,music.dsplego-dk.sched.dcloudstc.com
+DOMAIN,isure6-stream-qqmusic.a.bdycdn.cn
+DOMAIN,music.dsplego-dk.sched.dcloudstc.com
 
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*

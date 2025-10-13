@@ -14,3 +14,13 @@ DOMAIN-SUFFIX,emojixd.com
 
 # > baidu
 DOMAIN,pan.baidu.com
+
+# > QQ Music
+DOMAIN-SUFFIX,tc.qq.com
+DOMAIN,isure6-stream-qqmusic.a.bdycdn.cn
+DOMAIN,music.dsplego-dk.sched.dcloudstc.com
+DOMAIN-SUFFIX,cloud.tencent.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,y.qq.com

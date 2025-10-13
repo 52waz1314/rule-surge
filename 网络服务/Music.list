@@ -1,7 +1,3 @@
-# > QQ Music
-DOMAIN-SUFFIX,p2ptun.qq.com
-
-
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*

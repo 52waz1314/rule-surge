@@ -23,6 +23,3 @@ DOMAIN-SUFFIX,hcaptcha.com
 # > jd 
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,jd.hk
-
-# > QQ Music
-DOMAIN-SUFFIX,cloud.tencent.com

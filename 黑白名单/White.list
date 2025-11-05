@@ -24,3 +24,7 @@ DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,qqmusic.qq.com
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,y.qq.com
+
+# > futu
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futunn.com

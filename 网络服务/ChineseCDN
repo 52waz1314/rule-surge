@@ -1,14 +1,14 @@
- # > Epic
+# > Epic
 DOMAIN-KEYWORD,epicgames
 
-  # > Passkey
+# > Passkey
 DOMAIN-SUFFIX,auth.com
 
-  # > Proxy plugin
+# > Proxy plugin
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
 
-  # > Tesla
+# > Tesla
 DOMAIN,tesla-cdn.thron.cn
 DOMAIN,tesla-cdn.thron.com
 DOMAIN-SUFFIX,solarcity.com
@@ -20,17 +20,17 @@ DOMAIN-SUFFIX,teslamotors.com
 DOMAIN-SUFFIX,teslamotors.com.cn
 DOMAIN-SUFFIX,ts.la
 
-  # > UUBooster
+# > UUBooster
 PROCESS-NAME,UUBooster
   
-  # > WiFiman
+# > WiFiman
 DOMAIN-SUFFIX,app-measurement.com
 
-  # > Xunlei
-  # - USER-AGENT,%E8%BF%85%E9%9B%B7
+# > Xunlei
+# - USER-AGENT,%E8%BF%85%E9%9B%B7
 DOMAIN-SUFFIX,xunlei.com
 
-  # > Download
+# > Download
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,BitComet.exe
 PROCESS-NAME,fdm.exe
@@ -53,7 +53,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 
-  # > Private Tracker
+# > Private Tracker
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,awesome-hd.me
  DOMAIN-SUFFIX,broadcasthe.net
@@ -81,10 +81,9 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,audiences.me
-
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-SUFFIX,smtp
 
-  # > UBI
+# > UBI
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

@@ -1,18 +1,1 @@
-# > bahamut
-USER-AGENT,Anime*
-DOMAIN-KEYWORD,bahamut
-DOMAIN-SUFFIX,bahamut.com
-DOMAIN-SUFFIX,bahamut.com.tw  
-DOMAIN-SUFFIX,gamer.com.tw  
-DOMAIN-SUFFIX,gamer.com
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,viblast.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN,bahamut.akamaized.net
-DOMAIN,gamer-cds.cdn.hinet.net
-DOMAIN,gamer2-cds.cdn.hinet.net 
-IP-CIDR,104.16.182.0/24,no-resolve
-IP-CIDR,104.16.181.0/24,no-resolve  
-IP-CIDR,54.230.85.0/24,no-resolve
+

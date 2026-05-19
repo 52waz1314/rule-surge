@@ -8,6 +8,7 @@ IP-CIDR,17.188.20.0/23,apns
 IP-CIDR,17.249.0.0/16,apns
 IP-CIDR,17.252.0.0/16,apns
 IP-CIDR,17.57.144.0/22,apns
+DOMAIN,chejiahao.autohome.com.cn
 
 # > google
 DOMAIN,imasdk.googleapis.com

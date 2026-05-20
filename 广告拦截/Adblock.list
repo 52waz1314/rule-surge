@@ -130,15 +130,6 @@ DOMAIN,tunion-api.m.taobao.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 
-# > Autohome
-DOMAIN,adproxy.autohome.com.cn
-DOMAIN,rd.autohome.com.cn
-DOMAIN,applogapi.autohome.com.cn
-DOMAIN,adm0.autoimg.cn
-DOMAIN,adm1.autoimg.cn
-DOMAIN,adm2.autoimg.cn
-DOMAIN,adm3.autoimg.cn
-
 # > Baidu
 DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,cpro.baidu.com

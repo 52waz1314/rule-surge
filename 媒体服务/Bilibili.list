@@ -25,3 +25,7 @@ DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
+
+
+# > xgcartoon
+DOMAIN-SUFFIX,cnxgct.com

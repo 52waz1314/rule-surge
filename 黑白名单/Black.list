@@ -28,11 +28,9 @@ DOMAIN-SUFFIX,keeflys.com
 DOMAIN-SUFFIX,emojiall.com
 
 # > cloudflare
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,hcaptcha.com
 
 # > jd 
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,jd.hk
 
 # > QQ Music

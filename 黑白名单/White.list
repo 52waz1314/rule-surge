@@ -3,6 +3,7 @@ DOMAIN,077582580.xyz
 DOMAIN-SUFFIX,077582580.xyz
 IP-CIDR,47.242.31.246/24,no-resolve
 IP-CIDR,47.243.176.91/24,no-resolve
+DOMAIN-SUFFIX,sntp.me
 
 # > Binance china
 DOMAIN-SUFFIX,binancezh.info

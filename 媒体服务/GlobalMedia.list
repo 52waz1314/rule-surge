@@ -1,9 +1,5 @@
 # 港澳台媒体
 
-# > iyf
-DOMAIN-SUFFIX,yfvod.com
-DOMAIN-SUFFIX,iyfvod.com
-
 # > bahamut
 USER-AGENT,Anime*
 DOMAIN-KEYWORD,bahamut

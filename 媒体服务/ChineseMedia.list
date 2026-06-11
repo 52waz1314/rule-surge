@@ -1,3 +1,5 @@
+# 国内媒体
+
 # > iyf
 DOMAIN-SUFFIX,yfvod.com
 DOMAIN-SUFFIX,iyfvod.com
@@ -196,7 +198,6 @@ DOMAIN-SUFFIX,toutiao.com
 # > plex direct server
 DOMAIN-SUFFIX,plex.direct
 
-
 # > 爱云影视
 DOMAIN,iyunys.com
 DOMAIN-SUFFIX,iyunys.com
@@ -218,3 +219,8 @@ DOMAIN-SUFFIX,ffzy888.com
 DOMAIN-SUFFIX,snm0516.aisee.tv
 DOMAIN-SUFFIX,dmyyds.com
 DOMAIN-SUFFIX,toutiao50.com
+
+# 国内音乐
+# > Netease Music
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.126.net

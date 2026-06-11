@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,chat.bilibili.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,itc.cn
+USER-AGENT,bili-inter*
+DOMAIN,apiintl.biliapi.net
 
 # > bilibiliInt
 DOMAIN,apm-misaka.biliapi.net

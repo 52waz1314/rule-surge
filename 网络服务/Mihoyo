@@ -6,3 +6,10 @@ DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,yuanshen.com
+
+# > jj game
+DOMAIN-SUFFIX,unity.cn
+DOMAIN-SUFFIX,jj.cn
+DOMAIN-SUFFIX,jjgame.net
+DOMAIN-SUFFIX,jjmatch.cn
+DOMAIN,dypnsapi.aliyuncs.com

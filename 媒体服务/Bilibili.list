@@ -28,6 +28,15 @@ DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 
-
-# > xgcartoon
-DOMAIN-SUFFIX,cnxgct.com
+# > yfvod
+DOMAIN,yfvod.com
+DOMAIN-SUFFIX,yfvod.com
+DOMAIN-SUFFIX,larkbots.com
+DOMAIN-SUFFIX,bubitech.cn
+DOMAIN-SUFFIX,qlplayer.cyou
+DOMAIN-SUFFIX,kakaniu.com
+DOMAIN-SUFFIX,ruyijx.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,feifei-kan.com
+DOMAIN-SUFFIX,oag7h.com
+DOMAIN-SUFFIX,2kdm.vip

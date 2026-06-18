@@ -1,9 +1,14 @@
+# > sntp
+DOMAIN,sub1.sntp.me
+DOMAIN-SUFFIX,sntp.me
+DOMAIN-SUFFIX,nod3.org
+DOMAIN-SUFFIX,presntp.uk
+
 # > rule cloud
 DOMAIN,077582580.xyz
 DOMAIN-SUFFIX,077582580.xyz
 IP-CIDR,47.242.31.246/24,no-resolve
 IP-CIDR,47.243.176.91/24,no-resolve
-DOMAIN-SUFFIX,sntp.me
 DOMAIN-SUFFIX,zenithgrid.co
 
 # > Dler Cloud

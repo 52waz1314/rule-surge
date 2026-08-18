@@ -30,8 +30,5 @@ DOMAIN-SUFFIX,emojiall.com
 # > cloudflare
 DOMAIN-SUFFIX,hcaptcha.com
 
-# > jd 
-DOMAIN-SUFFIX,jd.hk
-
 # > QQ Music
 DOMAIN-SUFFIX,p2ptun.qq.com
